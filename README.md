@@ -4,7 +4,7 @@
 # Hi , I'm Mücahit. :wave:
 
 ### Self Taught Developer
-
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" align="right" width="400" height="250">
 <br>
 🎓<font color="#BCBEC0">Electrical & Electronics Engineering student </font>
 <br>
