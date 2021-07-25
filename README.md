@@ -14,7 +14,7 @@
 <br>
 ✉️<font color="#BCBEC0">Any feedback would be nice </font>
 
-### Reach out to me:
+### Reach out to me
 
 [<img  width="28" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="28" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
