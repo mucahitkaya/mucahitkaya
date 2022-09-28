@@ -1,7 +1,7 @@
 <!-- <img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="right" width="400" height="250"> -->
 <!-- yukarıdaki gibi gif atabiliriz -->
 
-# Hi , I'm Mücahit. 
+<img src="https://readme-typing-svg.herokuapp.com?duration=2500&lines=Hii+%3A);Take+a+seat+</.;I'm+a+Software+Developer;I+love+creating+things;that+people+need+and+like.">
 
 ### Front End Developer
 <!-- <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" align="right" width="400" height="250"> -->
