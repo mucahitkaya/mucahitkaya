@@ -9,7 +9,7 @@
 🎓<font color="#BCBEC0">Electrical & Electronics Engineering student </font>
 <br>
 👨‍💻
-<font color="#BCBEC0">I’m currently learning JS and React.js </font>
+<font color="#BCBEC0">I’m currently learning JS, React.js, ReactNative & Node.js .. </font>
 
 <br>
 ✉️<font color="#BCBEC0">Any feedback would be nice </font>
